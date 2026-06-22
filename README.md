@@ -66,23 +66,55 @@ devpool-api-server/
 
 3.****ที่ต้องติดตั้ง*******************
 
-Deploy ใหม่ด้วยคำสั่ง
-vercel --prod
+#  ติดตั้ง Vercel CLI
+npm install -g vercel
 
-รือถ้าอยาก Deploy ใหม่ทั้งหมด:
+#  เข้าสู่ระบบ Vercel
+vercel login
 
+#  Deploy
+vercel
 
-# 1. Deploy ใหม่
-vercel --prod
+# เลือกตั้งค่า (ตอบ Yes ทั้งหมด)
+#    - Scope: your-account
+#    - Link to existing project? No
+#    - Project name: devpool-api-server
+#    - Directory: ./
+#    - Override settings? No
 
-# 2. ทดสอบเปิดเว็บ
+#  รอจนเสร็จ แล้วได้ลิงก์ เช่น:
 #    https://devpool-api-server.vercel.app
 
-# 3. ทดสอบ API
+#Deploy ใหม่ด้วยคำสั่ง
+vercel --prod
+
+#รือถ้าอยาก Deploy ใหม่ทั้งหมด:
+
+
+#  Deploy ใหม่
+vercel --prod
+
+
+#  ทดสอบเปิดเว็บ
+#    https://devpool-api-server.vercel.app
+
+
+#  ทดสอบ API
 #    https://devpool-api-server.vercel.app/api/oil-price
 
 
+# Deploy ทุกครั้งที่ต้องการอัปเดต
+vercel --prod
 
+# หรือถ้าต้องการ Deploy แบบ Preview (ทดสอบ)
+vercel
+
+4.ต้องการรันโปรแกรม พิมพ์ที่ terminal:vercel --prod
+
+
+5.กด F5 จะขึ้นลิงค์  file:///C:/Users/Nitro%205/DEV_POOL_2026/devpool-api-server/public/index.html 
+
+หรือ จะดูในลิงค์ตรง deploy vercel ที่ลิงค์ https://project-2ve7o.vercel.app/ 
 
 
 
