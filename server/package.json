@@ -1,0 +1,26 @@
+{
+  "name": "devpool-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "thawit",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm start",
+    "dev": "npm run dev",
+    "install 2": "npm install express",
+    "install3": "npm install --save-dev nodemon",
+    "install 1": "npm install"
+  },
+  "engines": {
+    "node": "Node.js >= 16.0.0"
+  },
+  "devDependencies": {
+    "axios": "^1.18.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.7.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.14"
+  }
+}
