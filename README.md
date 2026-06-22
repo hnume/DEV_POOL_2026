@@ -16,7 +16,7 @@ https://devhub.in.th/th/learn/git/git-pull
 
 2.เปิดโฟเดอร์ server/ใน C:\Users\Nitro 5\DEV_POOL_2026\server> 
 
-****ที่ต้องติดตั้ง*******************
+3.****ที่ต้องติดตั้ง*******************
 
 # ติดตั้ง dependencies ใหม่
 npm install
@@ -30,12 +30,25 @@ node server.js
 # หรือใช้ nodemon
 npm run dev
 
-ต้องการโปรแกรม พิมพ์ที่ terminal:node server.js  
+4.ต้องการโปรแกรม พิมพ์ที่ terminal:node server.js  
 
-กด F5  จะขึ้นลิงค์ file:///C:/Users/Nitro%205/DEV_POOL_2026/server/index.html จะได้ การรันแบบ  deploy จากเครื่องตัวเอง (CLI)
+5.กด F5  จะขึ้นลิงค์ file:///C:/Users/Nitro%205/DEV_POOL_2026/server/index.html จะได้ การรันแบบ  deploy จากเครื่องตัวเอง (CLI)
 
 
-****แบบที่2***********
+***แบบที่2***
+-การรันแบบ  deploy จากหน้า page Vercel
+
+1.เปิดโฟเดอร์ DEV_POOL_2026
+
+2.เปิดโฟเดอร์ devpool-api-server ใน C:\Users\Nitro 5\DEV_POOL_2026\devpool-api-server
+
+3.****ที่ต้องติดตั้ง*******************
+
+
+
+
+
+
 
 
 
