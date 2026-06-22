@@ -44,13 +44,21 @@ npm run dev
 
 devpool-api-server/
 ├── server.js          ← ไฟล์หลัก (ต้องมี)
+
 ├── package.json       ← dependencies (ต้องมี)
+
 ├── vercel.json        ← ไฟล์นี้ (ต้องมี)
+
 ├── public/            ← โฟลเดอร์นี้ (ต้องมี)
+
 │   └── index.html     ← ไฟล์หน้าเว็บ (ต้องมี)
+
 │   └── style.css      ← (ถ้ามี)
+
 │   └── script.js      ← (ถ้ามี)
+
 └── node_modules/      ← (สร้างอัตโนมัติ)
+
 
 1.เปิดโฟเดอร์ DEV_POOL_2026
 
@@ -58,7 +66,20 @@ devpool-api-server/
 
 3.****ที่ต้องติดตั้ง*******************
 
+Deploy ใหม่ด้วยคำสั่ง
+vercel --prod
 
+รือถ้าอยาก Deploy ใหม่ทั้งหมด:
+
+
+# 1. Deploy ใหม่
+vercel --prod
+
+# 2. ทดสอบเปิดเว็บ
+#    https://devpool-api-server.vercel.app
+
+# 3. ทดสอบ API
+#    https://devpool-api-server.vercel.app/api/oil-price
 
 
 
