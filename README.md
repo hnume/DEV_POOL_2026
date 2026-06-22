@@ -38,6 +38,20 @@ npm run dev
 ***แบบที่2***
 -การรันแบบ  deploy จากหน้า page Vercel
 
+
+ลักษณะโครงสร้างไฟล์ 
+
+
+devpool-api-server/
+├── server.js          ← ไฟล์หลัก (ต้องมี)
+├── package.json       ← dependencies (ต้องมี)
+├── vercel.json        ← ไฟล์นี้ (ต้องมี)
+├── public/            ← โฟลเดอร์นี้ (ต้องมี)
+│   └── index.html     ← ไฟล์หน้าเว็บ (ต้องมี)
+│   └── style.css      ← (ถ้ามี)
+│   └── script.js      ← (ถ้ามี)
+└── node_modules/      ← (สร้างอัตโนมัติ)
+
 1.เปิดโฟเดอร์ DEV_POOL_2026
 
 2.เปิดโฟเดอร์ devpool-api-server ใน C:\Users\Nitro 5\DEV_POOL_2026\devpool-api-server
