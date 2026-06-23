@@ -132,8 +132,6 @@ vercel
 
 
 
-        <img width="406" height="573" alt="หน้าเพจ" src="https://github.com/user-attachments/assets/edc54b22-91e7-4383-9d34-c862b852b329" />
-
 
 
 
