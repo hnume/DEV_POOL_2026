@@ -33,10 +33,12 @@ node server.js
 # หรือใช้ nodemon
 npm run dev
 
-4.ต้องการโปรแกรม พิมพ์ที่ terminal:node server.js  
+4.ต้องการรันโปรแกรม พิมพ์ที่ terminal:node server.js  
 
 
-5.กด F5  จะขึ้นลิงค์ file:///C:/Users/Nitro%205/DEV_POOL_2026/server/index.html จะได้ การรันแบบ  deploy จากเครื่องตัวเอง (CLI)
+5.กด F5  จะขึ้นลิงค์ file:///C:/Users/Nitro%205/DEV_POOL_2026/server/index.html 
+
+จะได้ การรันแบบ  deploy จากเครื่องตัวเอง (CLI)
 
 
 *
