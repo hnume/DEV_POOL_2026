@@ -1,7 +1,9 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**อธิบายเพิ่มเติม**
-- การสร้างrepo ใน github
-จากลิงค์ https://www.google.com/search?q=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87repo+%E0%B9%83%E0%B8%99+github&rlz=1C1YTUH_thTH1018TH1018&oq=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87repo+%E0%B9%83%E0%B8%99+git&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTIzNjk5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8
+อธิบายเพิ่มเติม
+- การสร้างrepo ใน github จากลิงค์
+  
+ https://www.google.com/search?q=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87repo+%E0%B9%83%E0%B8%99+github&rlz=1C1YTUH_thTH1018TH1018&oq=%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87repo+%E0%B9%83%E0%B8%99+git&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTIzNjk5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8
+
 -การใช้ git 
 https://devhub.in.th/th/learn/git/git-pull
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
